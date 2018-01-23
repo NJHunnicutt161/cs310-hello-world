@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Nathan Hunnicutt
  */
 
 public class HelloWorld {
